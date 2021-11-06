@@ -1,2 +1,2 @@
 # AdvancedJava
-In this repo, you can find my code from the AdvancedJava Class that I've instructed
+In this branch, you can reach the code related with the Generic and Enums.
